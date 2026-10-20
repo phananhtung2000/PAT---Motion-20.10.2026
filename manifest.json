@@ -1,0 +1,18 @@
+{
+  "id": "pat-motion",
+  "name": "PAT Motion",
+  "short_name": "PAT Motion",
+  "description": "Đo tốc độ, quãng đường, độ cao, bản đồ lộ trình và đường về.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef2ea",
+  "theme_color": "#dfe9d6",
+  "lang": "vi",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
